@@ -3,7 +3,6 @@
 Repository này lưu trữ lời giải chi tiết và kết quả thực hiện các bài tập thực hành Hệ điều hành mã nguồn mở (Linux Shell & Python).
 
 * **Môi trường thử nghiệm:** CachyOS (Arch Linux)
-* **Shell sử dụng:** Fish Shell (Thao tác Terminal không dùng `cat`) & Bash Shell (Cho các script `.sh`)
 
 ---
 
