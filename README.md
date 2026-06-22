@@ -20,14 +20,14 @@ Kết quả trích xuất dữ liệu sách và thực hiện sắp xếp danh s
 
 ### 3. Tính toán với Python (Câu 3)
 * **Đề 4:** Script `factorial.py` tính giai thừa với các giá trị số nguyên lớn:
-  ![Giai thừa Đề 4](Picture/C3.png)
+![Giai thừa Đề 4](Picture/C3.png)
 
 * **Đề 5:** Script `sum_digits.py` xử lý tách chuỗi và tính tổng các chữ số của một số nguyên dương:
-  ![Tổng chữ số Đề 5](Picture/C3(De5).png)
+![Tổng chữ số Đề 5](Picture/C3(De5).png)
 
 ### 4. Kiểm tra hệ thống bằng Script Bash (Câu 4 & Câu 5)
 * **Đề 4:** Thực thi `network_info.sh` lấy IP/Hostname và `number_check.sh` kiểm tra tính chất số:
-  ![Script Đề 4](Picture/C4,5.png)
+![Script Đề 4](Picture/C4,5.png)
 
 * **Đề 5:** Thực thi `user_check.sh` kiểm tra tài khoản hệ thống và `for_loop_example.sh` in bảng lũy thừa của 2:
-  ![Script Đề 5](Picture/C4,5(De5).png)
+![Script Đề 5](Picture/C4,5(De5).png)
